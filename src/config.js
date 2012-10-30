@@ -1,5 +1,3 @@
 var require = {
-	baseUrl: "/test/src/",
-	paths: {
-	}
+	baseUrl: "/test/src"
 };

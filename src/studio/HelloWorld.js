@@ -1,4 +1,4 @@
-define("HelloWorld", function () {
+define(function () {
 
   return function () {
     return "hello world!";
